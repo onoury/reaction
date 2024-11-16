@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reaction/static/js/main.df17d280.js",
+    "index.html": "/reaction/index.html",
+    "main.df17d280.js.map": "/reaction/static/js/main.df17d280.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.df17d280.js"
+  ]
+}
