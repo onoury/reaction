@@ -6,6 +6,7 @@ function App(){
   return (
     <>
       <Navbar />
+      <div><h1>this is really not </h1> This is not real </div>
       <Footer />
     </>
   )
